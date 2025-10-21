@@ -13,12 +13,14 @@ header {
   display: flex;
   justify-content: space-between;
 }
+
 header h1 a:hover {
   text-decoration: underline;
   color:aliceblue
 }
 #logo {
   padding: 10px;
+  color: azure;
 }
 nav li a:hover {
   color: #7e8aa2;
